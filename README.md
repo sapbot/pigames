@@ -1,2 +1,2 @@
-# pigames
-Games For rasspbery pi OS
+# Easy Games
+Games For Bad PC
