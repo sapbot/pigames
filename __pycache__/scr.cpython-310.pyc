@@ -1,0 +1,18 @@
+o
+
+    EVebo  г                   @   s   d Z dd„ Zdd„ ZdS )й    c                 C   sL   t ddѓ}| dЎ | Ў  t ddѓ}| | Ў | Ў  tdѓ t| ѓ d S )Nzdata/display.dataъw+Ъ ъa+zedited file:©ЪopenЪwriteЪcloseЪprint)ЪtextЪmy_file© r   ъ+C:\Users\sapbot\Desktop\pigames-main\scr.pyЪscr   s   
+
+
+
+r   c                  C   s|   t ddѓ} |  dЎ |  Ў  t ddѓ} |  dЎ |  Ў  t ddѓ} |  dЎ |  Ў  t ddѓ} |  dЎ |  Ў  tdѓ d S )Nz
+data/cls.datar   r   r   Ъ1Ъ0Ъclsr   )r   r   r   r
+   r      s   
+
+
+
+
+
+
+
+r   N)Ъinfr   r   r   r   r   r
+   Ъ<module>   s   
