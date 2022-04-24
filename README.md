@@ -4,5 +4,12 @@ Games For Bad PC
 If you on windows open win_screen.py and game
 If you on linux open screen.py and game
 # Games
+
+
+
 game.py - Test with smile
+
+
+
+
 game001.py - Test with text
